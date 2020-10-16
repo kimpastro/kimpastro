@@ -1,1 +1,1 @@
-[](https://github.com/kimpastro/repo/blob/main/images/cover.png)
+[](https://github.com/kimpastro/kimpastro/blob/main/images/cover.png)
