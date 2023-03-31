@@ -10,7 +10,7 @@ I'm a **Backend developer**, passionate about **Ruby** and I'm always looking fo
 
 Here are some of the projects I've worked on:
 
-- [Inspecta](https://inspecta.fly.dev)
+- [Inspecta](https://github.com/kimpastro/inspecta)
 
 ## 🛠️ My Stack
 
