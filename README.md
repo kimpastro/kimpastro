@@ -9,7 +9,7 @@ I'm a Ruby back-end developer.
 
 ## Portfolio
 
-### [Inspecta](https://inspecta.fly.dev/) - Your tool for Analyzing Request Details
+### [Inspecta](https://github.com/kimpastro/inspecta) - Your tool for Analyzing Request Details
 Stack: Rails 7, View Components, Turbo Frames, Postgres, Redis and Bootstrap.
 
 ---
