@@ -1,21 +1,12 @@
-![cover github](https://github.com/kimpastro/kimpastro/blob/main/images/cover.png)
-
-# Hi there, I'm Kim pastro 👋
-
-I'm a Ruby developer.
----
+#### I'm Kim, a ruby developer passionate about web development.
 
 ## Personal projects
 
 ### [Inspecta](https://github.com/kimpastro/inspecta) - Your tool for Analyzing Request Details
 Stack: Rails 7, View Components, Turbo Frames, Postgres, Redis and Bootstrap.
 
-### [Stack Printer](https://github.com/kimpastro/stack_printer) - Simple stacktrace printer
+### [Stack Printer](https://github.com/kimpastro/stack_printer) - Simple stacktrace printer gem
 Stack: Ruby
-
----
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kimpastro)](https://github.com/kimpastro/github-readme-stats)
 
 ## 🤝 Let's Connect
 
