@@ -3,7 +3,7 @@
 ## Personal projects
 
 ### [Inspecta](https://github.com/kimpastro/inspecta) - Your tool for Analyzing Request Details
-Stack: Rails 7, View Components, Turbo Frames, Postgres, Redis and Bootstrap.
+Stack: Rails 7, View Components, Turbo Frames, Sqlite3 and Bootstrap.
 
 ### [Stack Printer](https://github.com/kimpastro/stack_printer) - Simple stacktrace printer gem
 Stack: Ruby
